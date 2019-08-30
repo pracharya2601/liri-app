@@ -1,0 +1,150 @@
+
+
+spotify-this-song, hello
+--------------- 
+Artist: Adele
+Song name: Hello
+Preview on Spotify: spotify:track:4sPmO7WMQUAf45kwMOtONw
+Album: 25
+--------------- 
+
+concert-this, khalid
+--------------- 
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, 
+Date: 09/09/2019
+--------------- 
+--------------- 
+Venue: Royal Arena
+Location: København S, 
+Date: 09/14/2019
+--------------- 
+--------------- 
+Venue: The O2 Arena
+Location: London, 
+Date: 09/17/2019
+--------------- 
+--------------- 
+Venue: The O2 Arena
+Location: London, 
+Date: 09/18/2019
+--------------- 
+--------------- 
+Venue: SSE Hydro
+Location: Glasgow, 
+Date: 09/20/2019
+--------------- 
+--------------- 
+Venue: Resorts World Arena
+Location: Birmingham, 
+Date: 09/21/2019
+--------------- 
+--------------- 
+Venue: First Direct Arena
+Location: Leeds, 
+Date: 09/22/2019
+--------------- 
+--------------- 
+Venue: 3Arena
+Location: Dublin, 
+Date: 09/24/2019
+--------------- 
+--------------- 
+Venue: SSE Arena
+Location: Belfast, 
+Date: 09/25/2019
+--------------- 
+--------------- 
+Venue: Jahrhunderthalle
+Location: Frankfurt Am Main, 
+Date: 09/28/2019
+--------------- 
+--------------- 
+Venue: Hovet
+Location: Enskede-årsta-vantör, 
+Date: 09/11/2019
+--------------- 
+--------------- 
+Venue: Lotto Arena
+Location: Antwerpen, 
+Date: 09/29/2019
+--------------- 
+--------------- 
+Venue: Ziggo Dome
+Location: Amsterdam, 
+Date: 10/01/2019
+--------------- 
+--------------- 
+Venue: König-Pilsener-ARENA
+Location: Oberhausen, 
+Date: 10/02/2019
+--------------- 
+--------------- 
+Venue: L'Olympia Bruno Coquatrix
+Location: Paris, 
+Date: 10/04/2019
+--------------- 
+--------------- 
+Venue: L'Olympia Bruno Coquatrix
+Location: Paris, 
+Date: 10/05/2019
+--------------- 
+--------------- 
+Venue: Rockhal
+Location: Esch Sur Alzette, 
+Date: 10/06/2019
+--------------- 
+--------------- 
+Venue: Samsung Hall Zürich
+Location: Zürich, 
+Date: 10/08/2019
+--------------- 
+--------------- 
+Venue: Oslo Spektrum
+Location: Grünerløkka, 
+Date: 09/13/2019
+--------------- 
+--------------- 
+Venue: Zenith
+Location: München, 
+Date: 10/09/2019
+--------------- 
+--------------- 
+Venue: Spark Arena
+Location: Auckland, 
+Date: 11/20/2019
+--------------- 
+--------------- 
+Venue: Spark Arena
+Location: Auckland, 
+Date: 11/21/2019
+--------------- 
+--------------- 
+Venue: Brisbane Entertainment Centre
+Location: Boondall, 
+Date: 11/26/2019
+--------------- 
+--------------- 
+Venue: Rod Laver Arena
+Location: Melbourne, 
+Date: 11/28/2019
+--------------- 
+--------------- 
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, 
+Date: 12/02/2019
+--------------- 
+--------------- 
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park, 
+Date: 12/04/2019
+--------------- 
+--------------- 
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park, 
+Date: 12/05/2019
+--------------- 
+
+concert-this, khalid
+
+concert-this, khalid
