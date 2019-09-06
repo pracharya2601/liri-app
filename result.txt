@@ -148,3 +148,11 @@ Date: 12/05/2019
 concert-this, khalid
 
 concert-this, khalid
+
+spotify-this-song, happy
+--------------- 
+Artist: Thomas Rhett
+Song name: Die A Happy Man
+Preview on Spotify: spotify:track:5kNe7PE09d6Kvw5pAsx23n
+Album: Tangled Up
+--------------- 
