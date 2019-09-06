@@ -156,3 +156,29 @@ Song name: Die A Happy Man
 Preview on Spotify: spotify:track:5kNe7PE09d6Kvw5pAsx23n
 Album: Tangled Up
 --------------- 
+
+concert-this, khalid
+
+concert-this, khalid
+
+concert-this, justin
+--------------- 
+Venue: 1252 Tapas Bar & Kitchen
+Location: The Woodlands, TX
+Date: 09/20/2019
+--------------- 
+--------------- 
+Venue: L'Étage
+Location: Rennes, 
+Date: 10/17/2019
+--------------- 
+--------------- 
+Venue: 1252 Tapas Bar & Kitchen
+Location: The Woodlands, TX
+Date: 10/04/2019
+--------------- 
+--------------- 
+Venue: PENA FESTAYRE
+Location: Paris, 
+Date: 10/18/2019
+--------------- 
