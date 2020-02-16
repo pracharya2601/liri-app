@@ -39,19 +39,19 @@ Creating a command prompt based bot that takes in commands and provides output f
 <h3>Screenshot</h3>
 
 <div align="center">
-    <img src="assets/images/a.png" width="500px"> 
+    <img src="assets/a.png" width="500px"> 
 </div>
 <div align="center">
-    <img src="assets/images/b.png" width="500px"> 
+    <img src="assets/.png" width="500px"> 
 </div>
 <div align="center">
-    <img src="assets/images/c.png" width="500px"> 
+    <img src="assets/c.png" width="500px"> 
 </div>
 <div align="center">
-    <img src="assets/images/d.png" width="500px"> 
+    <img src="assets/d.png" width="500px"> 
 </div>
 <div align="center">
-    <img src="assets/images/e.png" width="500px"> 
+    <img src="assets/e.png" width="500px"> 
 </div>
 
 <hr>
