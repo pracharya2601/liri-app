@@ -5,7 +5,7 @@
 Creating a command prompt based bot that takes in commands and provides output from spotify, bands in town, or omdb.
 </p>
 
-<h3>Instruction</h3>
+<h2>Instruction</h2>
 <p>Use the following commands input: </p>
 <ul>
     <li> spotify-this-song [song-name]
@@ -25,7 +25,7 @@ Creating a command prompt based bot that takes in commands and provides output f
     </li>
 </ul>
 
-<h3>Built with</h3>
+<h2>Built with</h2>
 <ul>
 <li>JavaScript - programming language</li>
 <li>Node.js - programming language</li>
@@ -36,7 +36,7 @@ Creating a command prompt based bot that takes in commands and provides output f
 <li>NPM - Axios - A node package for making request</li>
 </ul>
 
-<h3>Screenshot</h3>
+<h2>Screenshot</h2>
 
 <div align="center">
     <img src="assets/a.png" width="500px"> 
