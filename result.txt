@@ -186,3 +186,190 @@ Date: 10/18/2019
 concert-this, justin
 
 concert-this, khalid
+
+spotify-this-song, hello
+--------------- 
+Artist: Clairo
+Song name: Hello?
+Preview on Spotify: spotify:track:7qwt4xUIqQWCu1DJf96g2k
+Album: diary 001
+--------------- 
+
+concert-this, phil vassar
+--------------- 
+Venue: MIM Music Theatre
+Location: Phoenix, AZ
+Date: 02/16/2020
+--------------- 
+--------------- 
+Venue: Exhibit Hall
+Location: Harrington, DE
+Date: 03/14/2020
+--------------- 
+--------------- 
+Venue: Wagon Wheel Center for the Arts
+Location: Warsaw, IN
+Date: 03/20/2020
+--------------- 
+--------------- 
+Venue: 8 Seconds Saloon
+Location: Indianapolis, IN
+Date: 03/21/2020
+--------------- 
+--------------- 
+Venue: The Tangier Restaurant & Cabaret
+Location: Akron, OH
+Date: 03/22/2020
+--------------- 
+--------------- 
+Venue: Million Dollar Quartet at the Welk Resort Branson Theatre
+Location: Branson, MO
+Date: 03/28/2020
+--------------- 
+--------------- 
+Venue: Richmond Community College Cole Auditorium 
+Location: Hamlet, NC
+Date: 04/02/2020
+--------------- 
+--------------- 
+Venue: Riverfront Live
+Location: Cincinnati, OH
+Date: 04/03/2020
+--------------- 
+--------------- 
+Venue: Capitol Civic Centre
+Location: Manitowoc, WI
+Date: 04/24/2020
+--------------- 
+--------------- 
+Venue: Joe's on Weed Street
+Location: Chicago, IL
+Date: 04/25/2020
+--------------- 
+--------------- 
+Venue: Winstock Grounds
+Location: Winsted, MN
+Date: 06/12/2020
+--------------- 
+--------------- 
+Venue: Winstock Country Music Festival
+Location: Winsted, MN
+Date: 06/13/2020
+--------------- 
+--------------- 
+Venue: Island Grove Regional Park
+Location: Greeley, CO
+Date: 07/03/2020
+--------------- 
+--------------- 
+Venue: Country Boom Music Festival
+Location: West Salem, WI
+Date: 07/09/2020
+--------------- 
+--------------- 
+Venue: Grand Ole Opry House
+Location: Nashville, TN
+Date: 02/21/2020
+--------------- 
+--------------- 
+Venue: Harvester Performance Center
+Location: Rocky Mount, VA
+Date: 03/13/2020
+--------------- 
+--------------- 
+Venue: Canyon Lake Lodge
+Location: Canyon Lake, CA
+Date: 02/15/2020
+--------------- 
+
+concert-this, taylor swift
+--------------- 
+Venue: Oslo Sommertid
+Location: Oslo, 
+Date: 06/26/2020
+--------------- 
+--------------- 
+Venue: Glastonbury Festival 2020
+Location: Shepton Mallet, 
+Date: 06/28/2020
+--------------- 
+--------------- 
+Venue: Roskilde Festival
+Location: Roskilde, 
+Date: 07/01/2020
+--------------- 
+--------------- 
+Venue: Open’er Festival
+Location: Powiat Pucki, 
+Date: 07/03/2020
+--------------- 
+--------------- 
+Venue: Festival de Nîmes
+Location: Nîmes, 
+Date: 07/05/2020
+--------------- 
+--------------- 
+Venue: NOS Alive
+Location: Algés, 
+Date: 07/09/2020
+--------------- 
+--------------- 
+Venue: Hyde Park
+Location: London, 
+Date: 07/11/2020
+--------------- 
+--------------- 
+Venue: Capital One JamFest
+Location: Atlanta, GA
+Date: 04/05/2020
+--------------- 
+--------------- 
+Venue: Allianz Parque
+Location: Sao Paulo, 
+Date: 07/18/2020
+--------------- 
+--------------- 
+Venue: Allianz Parque
+Location: Sao Paulo, 
+Date: 07/19/2020
+--------------- 
+--------------- 
+Venue: Lover Fest West
+Location: Los Angeles, CA
+Date: 07/25/2020
+--------------- 
+--------------- 
+Venue: Lover Fest West
+Location: Los Angeles, CA
+Date: 07/26/2020
+--------------- 
+--------------- 
+Venue: Lover Fest East
+Location: Foxborough, MA
+Date: 07/31/2020
+--------------- 
+--------------- 
+Venue: Lover Fest East
+Location: Foxborough, MA
+Date: 08/01/2020
+--------------- 
+--------------- 
+Venue: Werchter Boutique
+Location: Rotselaar, 
+Date: 06/20/2020
+--------------- 
+--------------- 
+Venue: Waldbühne Berlin
+Location: Berlin, 
+Date: 06/24/2020
+--------------- 
+
+spotify-this-song, i love you
+--------------- 
+Artist: Billie Eilish
+Song name: i love you
+Preview on Spotify: spotify:track:6CcJMwBtXByIz4zQLzFkKc
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+--------------- 
+
+concert-this, taylor swift
