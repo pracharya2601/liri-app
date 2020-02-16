@@ -9,7 +9,9 @@ Creating a command prompt based bot that takes in commands and provides output f
 <p>Use the following commands input: </p>
 <ul>
 <li> spotify-this-song [song-name]
-    <li>provide a list of songs form Spotify including song name, author(s), URL and track name</li>
+    <ul>
+        <li>provide a list of songs form Spotify including song name, author(s), URL and track name</li>
+    </ul>
 </li>
 
 </ul>
